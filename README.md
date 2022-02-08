@@ -5,6 +5,8 @@ This is an example of a 3rd party driver, similar to the [sudoku-driver](https:/
 * it connects to a real (Postgres) database and executes queries there
 * it has the test extensions defines, so that the full Metabase core test suite can run against it
 
+**Note**: although this is a functionally identical clone of the Postgres driver we ship with the product, it should not be used in production.  It will not be maintained regularly or supported for production usage.
+
 ## Usage
 
 Build the same way as the suduko-driver
