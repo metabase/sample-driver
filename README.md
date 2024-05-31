@@ -1,3 +1,5 @@
+# Note: build instructions for this are out of date, please refer to the [build instructions for our sample Sudoku Driver instead](https://github.com/metabase/sudoku-driver/tree/master).
+
 # Metabase Sample Driver
 
 This is an example of a 3rd party driver, similar to the [sudoku-driver](https://github.com/metabase/sudoku-driver), with the following differences:
